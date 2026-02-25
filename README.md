@@ -1,4 +1,4 @@
-<img src="assets/image.png" alt="Descriptive alt text" width="400" />
+<img src="https://i.imgur.com/M7bJImY.png" alt="Plantables" width="400" />
 
 # Plantables
 Made by:  Juan Pablo, Javier, Luka, and Santiago. TRAIL 6th Grade
