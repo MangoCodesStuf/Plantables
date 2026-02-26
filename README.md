@@ -38,28 +38,28 @@ which is an affordable microcontroller, and if you would like to make accessorie
 
 
 # FAQ
-_____________________________________
+
 Q: Why is the code giving an error?
 A: You might have deleted a part or selected the wrong language
-_____________________________________
+
 Q: How is Plantables an original thing?
 A: Its being released open source and made fun (:
-_____________________________________
+
 Q: How many people worked on this project?
 A: 4 people who worked hard 😄
-_____________________________________
+
 Q: What is the goal of this?
-A: Helping the planet over making profit
-_____________________________________
+A: Helping the planet over making a profit
+
 Q: Can I modify the code?
 A: YES! Please do if you please, we encourage innovation.
-_____________________________________
+
 Q: What did the team learn from this
 A: Better leadership and teamwork roles
-____________________________________
+
 Q: I have more questions!
 A: You can fill this anonymous response Google forum :
-____________________________________
+
 
 # Thanks for reading!
 
