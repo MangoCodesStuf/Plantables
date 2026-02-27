@@ -57,7 +57,7 @@ A: Helping the planet over making a profit
 
 Q: Can I modify the code?
 
-A: YES! Please do if you please, we encourage innovation.
+A: YES! Please do so if you wish, we encourage innovation.
 
 Q: What did the team learn from this
 
