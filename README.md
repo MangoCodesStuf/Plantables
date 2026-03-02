@@ -52,7 +52,7 @@ If this does not work or you don't want to use a web browser, download the plant
 
   Plantables is an open-source project that you can modify and use to take care of your plants while having fun
   It uses the microcontroller known as a microbit V2 and has the code linked above. It is made to be as accessible as 
-  modable, you can edit our code in Blocks, Java, and Python. Plantables is free, the microbit V2 costs around $25, other boards are more expensive,      around 60 to 120$ its great and small. Perfect for getting into code or exploring fun projects. If you have any questions, read the FAQ questions
+  modable, you can edit our code in Blocks, Java, and Python. Plantables is free; the microbit V2 costs around $25. Which is quite cheap for a board of its capabilities. It can run more projects than just Plantables, and it's small. Perfect for getting into code or exploring fun projects. If you have any questions, read the FAQ questions
   or submit one to our anonymous Google forum.
   
 ## FAQ
