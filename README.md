@@ -31,7 +31,7 @@ Plantables is like a type of Tamagotchi. This will take real information from yo
 helps you care for your plant like you would for a pet or toy. It can show faces like a Tamagotchi, but also more advanced data
 for people who would like to know more about their plant.
 
-# How to use Plantables ( No programming experience required)
+## How to use Plantables ( No programming experience required)
 
 Plantables is made to help our earth, not to be a product. Plantables is an open source project and made to help, not earn. You will need a micro: bit V2, which is an affordable microcontroller that costs around $25; others might cost up to 60-80$ dollars!, and for extra parts that are not required, such as official plant pots or microbit cases, you can 3D print them; the files are linked above. For loading the Plantables code on the microbit, there are 2 main ways to do it. One requires a web browser and a USB-C cable, and the other requires downloading a .uf2 file and linking it with a USB-C cable. A .uf2 file is the type of file the microbit V2 takes its not a heavy download.
 
@@ -48,8 +48,15 @@ You can also do this quicker, a web browser way, but you will not be able to edi
   
 If this does not work or you don't want to use a web browser, download the plantables.UF2 file and connect your micro: bit with a USB-C cable to your computer. You should see a drive named MICROBIT. Then drag the plantables.uf2 file and drag it to your Micro: bit. It's okay if it disappears, then connect your micro: bit to a set of batteries, and you have the plantables code loaded. Now use alligator clips with a metal conductor, such as nails or screws, to the 0 pin and the 3.3v pin. Now you should have Plantables working and running on your micro: bit!
 
+## Overview
 
-# FAQ
+  Plantables is an open-source project that you can modify and use to take care of your plants while having fun
+  It uses the microcontroller known as a microbit V2 and has the code linked above. It is made to be as accessible as 
+  modable, you can edit our code in Blocks, Java, and Python. Plantables is free, the microbit V2 costs around $25 compared to
+  other 60-120$ boards its great and small. Perfect for getting into code or exploring fun projects. If you have any questions, read the FAQ questions
+  or submit one to our anonymous Google forum.
+  
+## FAQ
 
 Q: Why is the code giving an error?
 
@@ -80,8 +87,8 @@ Q: I have more questions!
 A: You can fill this anonymous response Google forum :
 
 
-# Thanks for reading!
+### Thanks for reading!
 
-Thanks a lot for taking the time to learn about our project, Plantables. We hope this is useful in knowledge and helps you and the earth.
+Thanks a lot for taking the time to learn about our project, Plantables. We hope this is useful with knowledge and helps you and the Earth.
 
 Bye!
