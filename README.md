@@ -13,7 +13,7 @@ code and product that aims to help keep Plants alive, making caring for them
 easier for anyone to do. Our goal is to make technology work with nature.
 
 
-# How Plantables Works
+## How Plantables Works
 
 Plantables is powered by a Microcontroller known as the BBC Micro: bit V2, and uses only a set of
 2 AA batteries to power it. It works by using two metal pins, which are electrical conductors that will
@@ -23,7 +23,7 @@ letting electricity through, but when we begin to add water, electricity starts 
 value of around 1203 volts. And no water will give us around 0 volts. It might not be exactly 0, but a low number compared 
 to higher humidity levels. We can use these numbers to calculate and show humidity, finding a balance between dry and overwatered.
 
-# What is Plantables like?
+## What is Plantables like?
 Planting is difficult. It gets even harder because you might think your plant is doing well, but it might not...
 Our goal with Project Plantables is not to make tech fight nature but work with it to build a better future.
 
