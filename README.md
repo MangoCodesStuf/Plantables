@@ -33,7 +33,7 @@ for people who would like to know more about their plant.
 
 ## How to use Plantables ( No programming experience required)
 
-Plantables is made to help our earth, not to be a product. Plantables is an open source project and made to help, not earn. You will need a micro: bit V2, which is an affordable microcontroller that costs around $25; others might cost up to 60-80$ dollars!, and for extra parts that are not required, such as official plant pots or microbit cases, you can 3D print them; the files are linked above. For loading the Plantables code on the microbit, there are 2 main ways to do it. One requires a web browser and a USB-C cable, and the other requires downloading a .hex file and linking it with a USB-C cable. A .hex file is the type of file the microbit V2 takes its not a heavy download.
+Plantables is made to help our earth, not to be a product. Plantables is an open source project and made to help, not earn. You will need a micro: bit V2, which is an affordable microcontroller that costs around $25. Others might cost up to 60-80$ dollars, and for extra parts that are not required, such as official plant pots or microbit cases, you can 3D print them; the files are linked above. For loading the Plantables code on the microbit, there are 2 main ways to do it. One requires a web browser and a USB-C cable, and the other requires downloading a .hex file and linking it with a USB-C cable. A .hex file is the type of file the microbit V2 takes its not a heavy download.
 
 - Web Browser -
   
