@@ -33,7 +33,7 @@ for people who would like to know more about their plant.
 
 ## How to use Plantables ( No programming experience required)
 
-Plantables is made to help our earth, not to be a product. Plantables is an open source project and made to help, not earn. You will need a micro: bit V2, which is an affordable microcontroller that costs around $25; others might cost up to 60-80$ dollars!, and for extra parts that are not required, such as official plant pots or microbit cases, you can 3D print them; the files are linked above. For loading the Plantables code on the microbit, there are 2 main ways to do it. One requires a web browser and a USB-C cable, and the other requires downloading a .uf2 file and linking it with a USB-C cable. A .uf2 file is the type of file the microbit V2 takes its not a heavy download.
+Plantables is made to help our earth, not to be a product. Plantables is an open source project and made to help, not earn. You will need a micro: bit V2, which is an affordable microcontroller that costs around $25; others might cost up to 60-80$ dollars!, and for extra parts that are not required, such as official plant pots or microbit cases, you can 3D print them; the files are linked above. For loading the Plantables code on the microbit, there are 2 main ways to do it. One requires a web browser and a USB-C cable, and the other requires downloading a .hex file and linking it with a USB-C cable. A .hex file is the type of file the microbit V2 takes its not a heavy download.
 
 - Web Browser -
   
@@ -46,7 +46,7 @@ You can also do this quicker, a web browser way, but you will not be able to edi
 
 - File method -
   
-If this does not work or you don't want to use a web browser, download the plantables.UF2 file and connect your micro: bit with a USB-C cable to your computer. You should see a drive named MICROBIT. Then drag the plantables.uf2 file and drag it to your Micro: bit. It's okay if it disappears, then connect your micro: bit to a set of batteries, and you have the plantables code loaded. Now use alligator clips with a metal conductor, such as nails or screws, to the 0 pin and the 3.3v pin. Now you should have Plantables working and running on your micro: bit!
+If this does not work or you don't want to use a web browser, download the plantables.hex file and connect your micro: bit with a USB-C cable to your computer. You should see a drive named MICROBIT. Then drag the plantables.hex file and drag it to your Micro: bit. It's okay if it disappears, then connect your micro: bit to a set of batteries, and you have the plantables code loaded. Now use alligator clips with a metal conductor, such as nails or screws, to the 0 pin and the 3.3v pin. Now you should have Plantables working and running on your micro: bit!
 
 ## Overview
 
