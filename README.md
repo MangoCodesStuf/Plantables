@@ -37,7 +37,7 @@ Plantables is made to help our earth, not to be a product. Plantables is an open
 
 - Web Browser -
   
-For the web browser method, go to:  https://makecode.microbit.org/, then in projects select create a new project.
+For the web browser method, go to: https://makecode.microbit.org/S04933-20186-76973-12037, then in projects select create a new project.
 By default, your project will be in blocks. Change it to JavaScript or Python. If you select JavaScript, make sure you select the JavaScript code, and for Python, make sure you click Python. If you would like to switch to blocks, pick any language and just do 1 extra step after loading the code; you will be able to convert the code into blocks. Select your code language at the top, where it says Java, and for python click the dropdown menu and select it. Once you have the correct code, you can delete everything in the pre-made code the website gives you and paste in the respective code. For block programming like scratch you can now change it from Java to Python. Then, finally, connect your micro: bit to your device and hit the purple download button. If your micro: bit does not show up, it might be an outdated web browser or a weak cable connection. Also, make sure you are connected to a set of AA batteries.
 
 - Web Browser (Faster) -
