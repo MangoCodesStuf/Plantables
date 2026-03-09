@@ -20,7 +20,7 @@ Plantables is powered by a Microcontroller known as the BBC Micro: bit V2, and u
 send electricity through the soil without harming the plant, and the microcontroller will measure the amount of
 electricity that it receives and use that to calculate humidity. Soil is a great isolator, which means it's great at not
 letting electricity through, but when we begin to add water, electricity starts to flow. Too much water will give us an electricity 
-value of around 1203 volts. And no water will give us around 0 volts. It might not be exactly 0, but a low number compared 
+value of around 0 in an analog value. And no water will give us around 300-400. It might not be exactly 0, but a low number compared 
 to higher humidity levels. We can use these numbers to calculate and show humidity, finding a balance between dry and overwatered.
 
 ## What is Plantables like?
