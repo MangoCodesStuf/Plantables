@@ -46,7 +46,7 @@ You can also do this quicker, a web browser way, but you will not be able to edi
 
 - File method -
   
-If this does not work or you don't want to use a web browser, download the plantables.hex file and connect your micro: bit with a USB-C cable to your computer. You should see a drive named MICROBIT. Then drag the plantables.hex file and drag it to your Micro: bit. It's okay if it disappears, then connect your micro: bit to a set of batteries, and you have the plantables code loaded. Now use alligator clips with a metal conductor, such as nails or screws, to the 0 pin and the 3.3v pin. Now you should have Plantables working and running on your micro: bit!
+If this does not work or you don't want to use a web browser, download the plantables.hex file and connect your micro: bit with a USB-C cable to your computer. You should see a drive named MICROBIT. Then drag the plantables.hex file and drag it to your Micro: bit. It's okay if it disappears, then connect your micro: bit to a set of batteries, and you have the plantables code loaded. Now use alligator clips with a metal conductor, such as nails or screws, to the 0 pin and the GND pin. Now you should have Plantables working and running on your micro: bit!
 
 ## Overview
 
