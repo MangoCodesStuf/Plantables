@@ -19,10 +19,7 @@ Plantables is powered by a Microcontroller known as the BBC Micro: bit V2, and u
 2 AA batteries to power it. It works by using two metal pins, which are electrical conductors that will
 send electricity through the soil without harming the plant, and the microcontroller will measure the amount of
 electricity that it receives and use that to calculate humidity. Soil is a great isolator, which means it's great at not
-letting electricity through, but when we begin to add water, electricity starts to flow. Too much water will give us an electricity 
-value of around 0 in an analog value. And no water will give us around 300-400. It might not be exactly 0, but a low number compared 
-to higher humidity levels. We can use these numbers to calculate and show humidity, finding a balance between dry and overwatered.
-
+letting electricity through, but when we begin to add water, electricity starts to flow. The micro: bit gets soil moisture using an analog value between 0 and 1023. Wet soil conducts electricity better than dry soil. Because of this, lower numbers mean wetter soil, while higher numbers mean drier soil. We found that wet soil produced values close to 0–200, while dry soil produced values around 300–400.
 ## What is Plantables like?
 Planting is difficult. It gets even harder because you might think your plant is doing well, but it might not...
 Our goal with Project Plantables is not to make tech fight nature but to work with it to build a better future.
